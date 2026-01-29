@@ -177,8 +177,8 @@ Total = Stint 1 Time + Stint 2 Time + Stint 3 Time + (Pit Stops × Pit Loss)
 
 | Project | Description |
 |---------|-------------|
-| [F1-Strategy-Hungary-2023](https://github.com/egyan175-creator/F1-Strategy-Hungary-2023) | Full Python analysis with Monte Carlo simulation |
-| [F1-Strategy-ML](https://github.com/egyan175-creator/F1-Strategy-ML) | XGBoost lap time prediction (MAE 0.263s) |
+| [F1-Strategy-Quantitative-Investigation](https://github.com/egyan175/F1-Strategy-Quantitative-Investigation) | Full Python investigation and analysis with Monte Carlo simulation |
+| [F1-Strategy-ML](https://github.com/egyan175/F1-Strategy-ML) | XGBoost lap time prediction (MAE 0.263s) |
 
 ---
 
@@ -214,4 +214,5 @@ MIT License — free to use and modify.
 ---
 
 *This is an independent project for educational and portfolio purposes. Not affiliated with Formula 1, McLaren Racing, or any F1 team.*
+
 
